@@ -9,7 +9,7 @@
 Software Engineer with 9+ years of experience in **C#, SQL Server, ASP.NET Core, Angular, and TypeScript**.  
 Experienced in developing software solutions tailored to meet organizational needs.
 
-📍 Birmingham, England  
+📍 England  
 📧 asmaaibrahim2014@gmail.com  
 📱 +44 7392 174895  
 [LinkedIn](https://www.linkedin.com/in/asmaayassin) | [GitHub](https://github.com/AsmaaYassinDev)
