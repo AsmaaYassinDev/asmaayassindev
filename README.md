@@ -5,7 +5,7 @@
 <!-- GitHub Header Image -->
 ![GitHub Header](GitHub_Header_1500x500.png)
 
-# Hi, I'm Asmaa Yassin
+# Hi, I'm Asmaa Ibrahim Yassin
 
 Senior .NET Software Engineer with 10+ years 
 of experience building enterprise applications 
