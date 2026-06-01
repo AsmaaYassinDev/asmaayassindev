@@ -19,7 +19,6 @@ solutions following Clean Architecture principles.
 
 Based in Birmingham, UK  
 asmaaibrahim2014@gmail.com  
-+44 7392 174895  
 [LinkedIn](https://www.linkedin.com/in/asmaayassin) | 
 [GitHub](https://github.com/AsmaaYassinDev)
 
